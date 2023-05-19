@@ -1,0 +1,11 @@
+# Ignore .env file
+.env
+
+# Ignore the "recommender" folder
+/recommender/
+
+# Ignore the cache folder
+/__pycache__/
+
+#ignore the fun folder
+/fun/

@@ -1,0 +1,48 @@
+Copyright (c) [2023] [andi5986]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+
+User
+I want to put it in the github 
+ChatGPT
+Great! Here are the steps to add your MIT License to your GitHub repository:
+
+Navigate to your repository on GitHub.
+
+Click on the "Add file" button near the right of the screen, and then click "Create new file."
+
+In the "Name your file" text box, enter "LICENSE".
+
+In the body of the new file, copy and paste the text of the MIT License template provided above, replacing [year] and [fullname] with the current year and your name or your organization's name.
+
+Scroll to the bottom and enter a brief message describing your changes, such as "Added MIT License."
+
+Make sure the "Commit directly to the main branch" option is selected, and then click "Commit new file."
+
+That's it! Your GitHub repository now includes an MIT License.
+
+
+
+
+
+
