@@ -9,3 +9,5 @@
 
 #ignore the fun folder
 /fun/
+
+app_ml.py

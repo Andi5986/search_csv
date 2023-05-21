@@ -1,44 +1,35 @@
-Project 
-Title: CSV Searcher
+# Talent Search Application
 
-A simple web application using Streamlit and Pandas, to help you search through a database of talented individuals based on specific attributes.
+This is a talent search application which allows users to search a CSV of talent attributes using natural language.
 
-Table of Contents
+## Installation
 
-Installation
-Usage
-License
-Installation
+1. Clone this repository:
+    ```
+    git clone https://github.com/yourusername/talent-search.git
+    cd talent-search
+    ```
 
+2. Install the required packages:
+    ```
+    pip install -r requirements.txt
+    ```
 
-Before starting, ensure you have the following requirements:
+## Usage
 
-Python 3.6 or later
+1. Run the Streamlit application:
+    ```
+    streamlit run app.py
+    ```
 
-pandas==2.0.1
-streamlit==1.22.0
+2. Navigate to the URL provided in your console (usually `http://localhost:8501`).
 
-You can install these packages using pip:
+3. Use the sidebar to upload your Talent CSV.
 
-pip install streamlit pandas
+4. Enter your search terms into the search bar and press Enter to conduct a search.
 
-Start the Streamlit app by navigating to the directory containing the script and running:
-bash
+## Features
 
-streamlit run main.py
-
-
-Navigate to the URL provided in your terminal to view the app in your web browser.
-
-
-On the sidebar, upload your CSV file containing data about various talents using the 'Upload your Talent CSV' button.
-
-
-In the main section of the app, input any attributes you wish to search for in the database.
-
-
-The application will display the corresponding rows from the CSV file that match your search criteria. The search is case-insensitive and can be performed on both string and numeric columns.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+- Natural language search across all columns of the CSV
+- Relevance ranking of search results
+- Ignore common English stop words (like 'with', 'from', etc.) in search terms
