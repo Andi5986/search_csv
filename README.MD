@@ -6,7 +6,7 @@ This is a talent search application which allows users to search a CSV of talent
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/talent-search.git
+    git clone https://github.com/Andi5986/search_csv
     cd talent-search
     ```
 
